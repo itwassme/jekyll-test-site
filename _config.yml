@@ -21,8 +21,8 @@ defaults:
     layout: post
 email: youjin@hello-earth.org
 description: A blog about Japan.
-baseurl: ''
-url: ''
+baseurl: 
+url: 
 twitter_username: itwassme
 github_username: itwassme
 theme: minima
